@@ -1,0 +1,1 @@
+<a href="https://colab.research.google.com/github/Lucasleallopes/PDF-TO-DOCX/blob/main/PDF_to_DOCX.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
